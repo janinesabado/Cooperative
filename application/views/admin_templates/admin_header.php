@@ -10,11 +10,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
   <meta name="author" content="">
   <title>Consumer Cooperative Admin Dashboard</title>
   <!-- Bootstrap core CSS-->
-  <link href="assets/css/bootstrap_admin.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap_admin.css" rel="stylesheet">
   <!-- Custom fonts for this template-->
-  <link href="assets/css/font-awesome_admin.css" rel="stylesheet" type="text/css">
+  <link href="assets/vendor/font-awesome/css/font-awesome_admin.css" rel="stylesheet" type="text/css">
   <!-- Page level plugin CSS-->
-  <link href="assets/datatables/dataTables.bootstrap4.css" rel="stylesheet">
+  <link href="assets/vendor/datatables/dataTables.bootstrap4.css" rel="stylesheet">
   <!-- Custom styles for this template-->
   <link href="assets/css/sb-admin_admin.css" rel="stylesheet">
 </head>
@@ -22,7 +22,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body class="fixed-nav sticky-footer bg-dark" id="page-top">
 <!--############################################################################## Navigation ###############################################################################################################-->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
-    <a class="navbar-brand" href="index.html">Consumer-Cooperative Solution</a>
+    <a class="navbar-brand" href="">Consumer-Cooperative Solution</a>
     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -145,14 +145,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <span class="nav-link-text">Outstanding</span>
           </a>
 		 </li>
-		  
-		  <!--#############################################PENDING################################################################################################--> 
-		  <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Link">
-          <a class="nav-link" href="#">
-            <i class="fa fa-fw fa-link"></i>
-            <span class="nav-link-text">Pending</span>
-          </a>
-		  </li>
 		  
 		  <!--#############################################REPORTS################################################################################################--> 
 		   <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Components">
