@@ -51,10 +51,10 @@
                   <th>Date</th>
                   <th>Supplier</th>
                   <th>Costumer</th>
-				  <th>Balance</th>
+				 
                   <th>Payment</th>
 				  <th>Total</th>
-                  <th>Due Date</th>
+                 
                 </tr>
               </thead>
               <tfoot>
@@ -63,10 +63,10 @@
                   <th>Date</th>
                   <th>Supplier</th>
                   <th>Costumer</th>
-				  <th>Balance</th>
+				 
                   <th>Payment</th>
 				  <th>Total</th>
-                  <th>Due Date</th>
+                
                 </tr>
               </tfoot>
               <tbody>

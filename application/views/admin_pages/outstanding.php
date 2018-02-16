@@ -40,8 +40,7 @@
                   <th>Due Date</th>
                   <th>Total Amount</th>
 				  <th>Payment</th>
-                  <th>Balance</th>
-				  <th>Add Payment</th>
+           
                   
                 </tr>
               </thead>
@@ -52,8 +51,6 @@
                   <th>Due Date</th>
                   <th>Total Amount</th>
 				  <th>Payment</th>
-                  <th>Balance</th>
-				  <th>Add Payment</th>
                   
                 </tr>
               </tfoot>
